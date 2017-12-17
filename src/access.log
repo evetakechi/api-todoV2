@@ -1,7 +1,0 @@
-::1 - - [15/Dec/2017:13:39:11 +0000] "GET /listalltodo HTTP/1.1" 200 70 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
-::ffff:127.0.0.1 - - [16/Dec/2017:09:55:06 +0000] "GET / HTTP/1.1" 404 139 "-" "-"
-::ffff:127.0.0.1 - - [16/Dec/2017:09:56:52 +0000] "GET / HTTP/1.1" 404 139 "-" "-"
-::1 - - [16/Dec/2017:10:57:40 +0000] "POST /todo/create HTTP/1.1" 200 30 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
-::1 - - [16/Dec/2017:10:58:53 +0000] "POST /todo/create HTTP/1.1" 200 30 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
-::1 - - [16/Dec/2017:11:00:00 +0000] "POST /todo/create HTTP/1.1" 200 30 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
-::1 - - [16/Dec/2017:11:34:38 +0000] "DELETE /todo/delete/-L0TykraydXou-Z82l3G HTTP/1.1" 200 30 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
